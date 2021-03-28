@@ -1,0 +1,79 @@
+@font-face {
+  font-family: 'Avenir Next LT Pro Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Regular'),
+    url('AvenirNextLTPro-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Italic'),
+    url('AvenirNextLTPro-It.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Ultra Light';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Ultra Light'),
+    url('AvenirNextLTPro-UltLt.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Ultra Light Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Ultra Light Italic'),
+    url('AvenirNextLTPro-UltLtIt.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Medium Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Medium Italic'),
+    url('AvenirNextLTPro-MediumIt.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Demi';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Demi'),
+    url('AvenirNextLTPro-Demi.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Demi Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Demi Italic'),
+    url('AvenirNextLTPro-DemiIt.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Bold';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Bold'),
+    url('AvenirNextLTPro-Bold.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Heavy';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Heavy'),
+    url('AvenirNextLTPro-Heavy.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Avenir Next LT Pro Heavy Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Avenir Next LT Pro Heavy Italic'),
+    url('AvenirNextLTPro-HeavyIt.woff') format('woff');
+}

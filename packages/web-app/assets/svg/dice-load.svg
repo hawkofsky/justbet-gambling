@@ -1,0 +1,17 @@
+<svg width="110" height="110" viewBox="0 0 110 110" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.5" y="2.5" width="105" height="105" rx="52.5" fill="#1D2738" stroke="url(#paint0_angular)" stroke-width="5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57 39C57 37.3431 58.3431 36 60 36H72C73.6569 36 75 37.3431 75 39V51C75 52.6569 73.6569 54 72 54H60C58.3431 54 57 52.6569 57 51V39Z" fill="#D9113A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M57 39C57 37.3431 58.3431 36 60 36L72.5858 36C73.4767 36 73.9229 37.0771 73.2929 37.7071L58.7071 52.2929C58.0771 52.9229 57 52.4767 57 51.5858V39Z" fill="#F2254F"/>
+<circle cx="66" cy="45" r="1" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36 60C36 58.3431 37.3431 57 39 57H51C52.6569 57 54 58.3431 54 60V72C54 73.6569 52.6569 75 51 75H39C37.3431 75 36 73.6569 36 72V60Z" fill="#D7DDE9"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36 60C36 58.3431 37.3431 57 39 57L51.5858 57C52.4767 57 52.9229 58.0771 52.2929 58.7071L37.7071 73.2929C37.0771 73.9229 36 73.4767 36 72.5858L36 60Z" fill="white"/>
+<circle cx="45" cy="66" r="1" fill="#68758C"/>
+<circle cx="41" cy="62" r="1" fill="#68758C"/>
+<circle cx="49" cy="70" r="1" fill="#68758C"/>
+<defs>
+<radialGradient id="paint0_angular" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(55 55) scale(50)">
+<stop offset="0.5" stop-color="white"/>
+<stop offset="0.5" stop-color="#1D2738"/>
+</radialGradient>
+</defs>
+</svg>

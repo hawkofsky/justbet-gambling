@@ -1,0 +1,68 @@
+version: '3.4'
+
+services:
+  ssr:
+    image: node:10
+    container_name: justbet-prod-ssr
+    networks:
+      - justbet-prod
+    restart: always
+    volumes:
+      # this list should match the list of archive web in Jenkinsfile!
+      - ./packages/web-app/.nuxt/:/web/.nuxt/:ro
+      - ./packages/web-app/static/:/web/static/:ro
+      - ./packages/web-app/nuxt.config.js:/web/nuxt.config.js:ro
+      - ./packages/web-app/package.json:/web/package.json:ro
+    ports:
+      - '127.0.0.1:3040:3000'
+    command: /bin/bash -c "cd /web/ && npm install --production && npm start"
+    env_file:
+      - '.env'
+  api:
+    build: packages/server
+    container_name: justbet-prod-api
+    restart: always
+    networks:
+      - justbet-prod
+    volumes:
+      # this list should match the list of archive api in Jenkinsfile!
+      - ./packages/server/package.json:/server/package.json:ro
+      - ./packages/server/yarn.lock:/server/yarn.lock:ro
+      - ./packages/server/dist/:/server/dist/:ro
+      - ./packages/server/config/:/server/config/:ro
+      - ./packages/server/database/:/server/database/:ro
+      - ./packages/server/utils/:/server/utils/:ro
+      - ./packages/server/knexfile.js:/server/knexfile.js:ro
+    links:
+      - db
+    env_file:
+      - '.env'
+    ports:
+      - '127.0.0.1:3041:3030'
+  db:
+    build: ./packages/db
+    container_name: justbet-prod-db
+    networks:
+      - justbet-prod
+    restart: always
+    ports:
+      - 5443:5432
+    volumes:
+      - db:/var/lib/postgresql/data
+    env_file:
+      - '.env'
+    environment:
+      - POSTGRES_USER=justbet
+  adminer:
+    image: adminer
+    container_name: justbet-prod-adminer
+    networks:
+      - justbet-prod
+    restart: always
+    ports:
+      - 127.0.0.1:3044:8080
+volumes:
+  db:
+    name: justbet-prod-db
+networks:
+  justbet-prod:

@@ -1,0 +1,37 @@
+version: '3.4'
+
+services:
+  db:
+    build: ./db/
+    container_name: justbet-dev-db
+    networks:
+      - justbet-dev
+    restart: always
+    ports:
+      - 5440:5432
+    volumes:
+      - db:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=justbet
+      - POSTGRES_PASSWORD=justbet
+  testdb:
+    build: ./db
+    container_name: justbet-dev-testdb
+    networks:
+      - justbet-dev
+    restart: always
+    ports:
+      - 5441:5432
+    volumes:
+      - testdb:/var/lib/postgresql/data
+    environment:
+      - POSTGRES_USER=justbet
+      - POSTGRES_PASSWORD=justbet
+volumes:
+  db:
+    name: justbet-dev-db
+  testdb:
+    name: justbet-dev-testdb
+
+networks:
+  justbet-dev:

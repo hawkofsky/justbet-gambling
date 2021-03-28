@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="7px" viewBox="0 0 12 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>arrow_dropdown</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leftbar" transform="translate(-57.000000, -585.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <g id="en">
+                <g transform="translate(20.000000, 548.000000)">
+                    <g id="Group-8" transform="translate(11.000000, 0.000000)">
+                        <path d="M27.624695,37.2191312 C27.1934331,36.8741216 26.5641407,36.944043 26.2191312,37.375305 C25.8741216,37.8065669 25.944043,38.4358593 26.375305,38.7808688 L32,43.2806248 L37.624695,38.7808688 C38.055957,38.4358593 38.1258784,37.8065669 37.7808688,37.375305 C37.4358593,36.944043 36.8065669,36.8741216 36.375305,37.2191312 L32,40.7193752 L27.624695,37.2191312 Z" id="arrow_dropdown"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

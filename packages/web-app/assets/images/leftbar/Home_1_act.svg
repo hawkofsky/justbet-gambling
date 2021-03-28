@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="80px" viewBox="0 0 80 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>Leftbar/Home_1_act</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-97.5%" y="-243.8%" width="295.0%" height="587.5%" filterUnits="objectBoundingBox" id="filter-1">
+            <feGaussianBlur stdDeviation="13" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="Leftbar/Home_1_act" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Leftbar/Home_1" transform="translate(20.000000, 28.000000)" fill="#D9113A">
+            <path d="M24,23.7676158 L24,18.7676158 C24,18.215331 23.5522847,17.7676158 23,17.7676158 L17,17.7676158 C16.4477153,17.7676158 16,18.215331 16,18.7676158 L16,23.7676158 L11,23.7676158 C9.8954305,23.7676158 9,22.8721853 9,21.7676158 L9,6.46280992 C9,5.70287959 9.43067709,5.00860233 10.111501,4.67100368 L19.111501,0.208193762 C19.6713109,-0.0693979205 20.3286891,-0.0693979205 20.888499,0.208193762 L29.888499,4.67100368 C30.5693229,5.00860233 31,5.70287959 31,6.46280992 L31,21.7676158 C31,22.8721853 30.1045695,23.7676158 29,23.7676158 L24,23.7676158 Z M22,23.7676158 L18,23.7676158 L18,19.7676158 L22,19.7676158 L22,23.7676158 Z" id="Combined-Shape"></path>
+            <ellipse id="Oval" filter="url(#filter-1)" cx="20" cy="25" rx="20" ry="8"></ellipse>
+        </g>
+    </g>
+</svg>

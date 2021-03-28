@@ -1,0 +1,878 @@
+{
+  "game": {
+    "title": "Game",
+    "moon": "Moon",
+    "dice": "Dice",
+    "wheel": "Wheel/Ring",
+    "coin_flip": "Coin Flip",
+    "poker": "Poker",
+    "roluette": "Roluette",
+    "blackjack": "Blackjack",
+    "slot_machine": "Slot machine",
+    "sports_betting": "Sports Betting",
+    "bacarrat": "Bacarrat"
+  },
+  "home": "Home",
+  "home_how_it_works_title": "How it works",
+  "home_how_it_works_texts": {
+    "1": "All of the games and randomizers are built completely on-chain",
+    "2": "A smart algorithm manages the bankroll, human interference is not possible*",
+    "3": "Play your favorite games using Tron or USDT directly from your wallet",
+    "4": "Each of your wagers will earn you WINR tokens",
+    "5": "Stake your WINR tokens, earn daily from the platform winnings airdrop",
+    "6": "Use your WINR tokens to buy lottery tickets"
+  },
+  "home_how_it_works_info": "* 100% of winnings from games are airdropped back to players (80% staking, 20% lottery)",
+  "lottery_title": "Lottery Draw <br class=\"d-block d-xl-none\" />Starts In",
+  "lottery_jackpot": "Lottery Jackpot",
+  "total_tickets": "Total Tickets",
+  "total_usdt": "Total",
+  "win_time": "Time",
+  "buy_tickets": "BUY TICKETS",
+  "daily_title": "Daily <br class=\"d-block d-xl-none\" />Winnings <br class=\"d-block d-sm-none\" />Airdrops",
+  "airdropped_yesterday": "Airdropped Yesterday",
+  "airdropped_all_time": "Airdropped All Time",
+  "value_of_airdropped": "$ value of airdropped",
+  "our_games": "Our Games",
+  "total_won": "Won",
+  "usdt_won": "USDT",
+  "wager": "Wager",
+  "reward": "Reward",
+  "winnings_airdropped": "Airdropped",
+  "staked": "Staked",
+  "lottery": "Lottery",
+  "login": "Login",
+  "how_it_works": "How it works",
+  "exchange_winr": "Exchange Winr",
+  "share_winnings_airdrops": "Share Winnings Airdrops",
+  "buy_lottery_tickets": "Buy Lottery Tickets",
+  "hot_winners": "Hot Winners",
+  "latest_bets": "Latest Bets",
+  "latest_bets_modal": "Players who wagered the most amount of TRX and USDT are rewarded with WINR mining multipliers every 5 minutes. The multiplier lasts for 5 minutes and top players mine more WINR in this period.",
+  "top_players": "Top Players",
+  "user": "User",
+  "payout": "Payout",
+  "profit": "Profit",
+  "no": "№",
+  "copyright": "© JustBet is an autonomous online gaming platform that is running on the public Tron blockchain.",
+  "information": "Information",
+  "whitepaper": "Whitepaper",
+  "transparency": "Transparency",
+  "statistics": "Statistics",
+  "guides": "Guides",
+  "terms_of_use": "Terms of Use",
+  "Privacy Policy": "Privacy Policy",
+  "social": {
+    "title": "Social",
+    "telegram": "Telegram",
+    "medium": "Medium",
+    "twitter": "Twitter",
+    "bitcointalk": "Bitcointalk"
+  },
+  "time_till": "Time till",
+  "lottery": "Lottery",
+  "staking": "Staking",
+  "mining": "Mining",
+  "referral": "Referral",
+  "referral_details": "Details",
+  "guides": "Guides",
+  "fairness": "Fairness",
+  "time_and_hour": "Time & Hour",
+  "winnings": "Winnings",
+  "time_to_next_game": "Time to next game",
+  "preparing": "Preparing Next Game",
+  "fair_play": "Fair play",
+  "fair_play_description": "Enter the block number your bet was broadcasted",
+  "enter_the_block_number_your_bet_was_broadcasted": "Enter the block number your bet was broadcasted",
+  "balance": "Balance",
+  "your_address": "Your Address",
+  "address": "Address",
+  "check": "check",
+  "block_number_invalid": "We're sorry, but you input not valide block number.",
+  "block_transactions": "Block transactions",
+  "block_transfers": "block_transfers",
+  "block_number": "Block number",
+  "block_hash": "Block Hash",
+  "result": "Result",
+  "buy_lottery_tickets": "Buy Lottery Tickets",
+  "1_ticket_cost": "1 TICKET COST",
+  "ticket_cost": "Ticket cost",
+  "ticket_price": "Ticket price",
+  "quantity_of_tickets": "Qantity of Tickets",
+  "total_cost": "Total Cost",
+  "game_numbers": "Game Numbers",
+  "auto_generated": "Auto Generated",
+  "random_numbers_will_be_generated_automatically": "Random numbers will be generated automatically",
+  "manual_select": "Manual Select",
+  "pick_5_numbers_manually": "Pick 5 numbers manually",
+  "ticket_numbers": "Ticket Numbers",
+  "winners": "Winners",
+  "winning_numbers": "Winning Numbers",
+  "jackpot_shared": "Jackpot Shared",
+  "block_number": "Block number",
+  "last_winners": "Last Winners",
+  "date": "Date",
+  "ticket_id": "Ticket ID",
+  "purchased_tickets": "Purchased tickets",
+  "my_tickets": "My tickets",
+  "ref_bonus_received_by_user": "Ref Bonus Received by User",
+  "terms_text": "If you reside in a location where lotteries, gambling, or betting over the internet is illegal, please do not click on anything related to the activities on this site. You must be at least 21 years of age to click on any gambling-related items on this site even if it is legal to do so in your location. Recognizing that the laws and regulations involving online gaming are different everywhere, players are responsible for checking and knowing the laws that exist within their own jurisdiction or region to ascertain the legality of the activities provided at JustBet.",
+  "dice_game": "Dice game",
+  "coin_game": "Coin Flip",
+  "total_bet": "Total bet",
+  "tails": "Tails",
+  "roll": "ROLL",
+  "rolling": "ROLLING",
+  "heads": "Heads",
+  "set_your_win_chance": "Set Your Win Chance",
+  "win_chance": "Win Chance",
+  "minimum": "Minimum",
+  "maximum": "Maximum",
+  "choose_your_bet": "Choose Your Bet",
+  "mined": "Mined",
+  "multiplier": "Multiplier",
+  "your_profit": "Your Profit",
+  "profits": "Profits",
+  "roll_the_dice": "Roll The Dice",
+  "lottery_jackpot": "Lottery Jackpot",
+  "bankroll": "Bankroll",
+  "moon_game": "Moon",
+  "online": "Online",
+  "max_bet": "Max bet",
+  "max_profit": "Max profit",
+  "bet": "Bet",
+  "auto": "Auto",
+  "stop": "Stop",
+  "wheel_game": "Wheel game",
+  "bet_amount": "Bet amount",
+  "guides": {
+    "title": "Guides",
+    "paragraphs": [
+      "The First-ever fully decentralized and autonomous gaming system which has no human interaction, where payouts cannot be tampered with at any time and <span>“where everyone is a WINR”</span>.",
+      "JustBet is the first-ever completely decentralized, self-sustaining, autonomous gaming platform. It is community-owned and incentives-driven to encourage long-term engagement and passive income. The JustBet platform (distributed gaming platform, smart contracts, and protocols) has no owner or operator. The protocol operates autonomously with pre-built algorithms for each game and for the bankroll. The algorithms built into each protocol calculate the necessary reserve held during each period while determining maximum allowed bets to ensure a healthy and stable reserve. All remaining winnings of the platform are distributed back to the players.",
+      "You can find how to use the JustBet platform from our detailed guides. If you have more questions, please join our Telegram community."
+    ]
+  },
+  "introduction": "Introduction",
+  "how_to_play": "How to play",
+  "how_to_play_list": [
+    "Please make sure you have a <a href='https://chrome.google.com/webstore/detail/tronlink%EF%BC%88%E6%B3%A2%E5%AE%9D%E9%92%B1%E5%8C%85%EF%BC%89/ibnejdfjmmkpcnlpebklmnkoeoihofec?utm_source=chrome-ntp-icon' target='_blank'>TRONLink</a> wallet. Click here to download Tronlink Chrome Extension. For more information on how to create one please read <a href='https://support.tronlink.org/hc/en-us/articles/360027090691-How-to-download-TronLink-Chrome-and-create-wallet-' target='_blank'>this article</a>.",
+    "In order to play, you must own TRX, the basic cryptocurrency that launches the TRON network or USDT, a stable token that represents USD ($) on the Tron blockchain. You can purchase Tron (TRX)  or USDT on major exchanges including Binance, Bitfinex, Bittrex, and dozens of others. A full list can be seen <a href='https://coinmarketcap.com/currencies/tron/#markets' target='_blank'>here</a>.",
+    "After you have TRX in your wallet, decide on your bet amount and start playing the games. Decide on your bet amount, and see your winning chances."
+  ],
+  "how_to_join_the_weekly_lottery": "How to join the weekly lottery",
+  "how_to_join_the_weekly_lottery_list": [
+    "At the end of each period (24 hours), 20% of all the winnings generated by the platform are sent to the lottery smart contract.",
+    "Users buy tickets by sending WINR tokens to the lottery smart contract.",
+    "The more tickets a user purchases the more chances he/she has to win the lottery.",
+    "Each ticket has 5 numbers from 1 to 20 decided by the user during the purchase.",
+    "Each lottery period lasts for a week (168) hours. The smart contract will then automatically generate 5 random sets of numbers for the lottery for that period.",
+    "If there are one or more winners, those winners will receive an equal share of the total amount held in the smart contract.",
+    "If there are no winning tickets, then the amount held in the smart contract for the lottery will automatically roll over to the next period.",
+    "Tickets are only valid for the lottery period they are purchased in.",
+    "The ticket price will be dynamically determined by the circulating supply. A ticket will always cost 1/1 000 000 000 of circulating supply.",
+    "The Lottery contract automatically sends the lottery pool amount to the winner’s address."
+  ],
+  "daily_profits_sharing": "Daily airdrop of winnings generated by the platform",
+  "daily_profits_sharing_list": [
+    "Every 24 hours (a day), 80% of all the winnings generated by the platform will be shared with users that stake their WINR tokens within that period.",
+    "Approximately 60 minutes after the protocol determines the daily winnings, the winnings airdrop pool will automatically distribute winnings to eligible addresses that were staking from the previous period.",
+    "WINR tokens must be staked for a full 24 hours to be eligible for rewards. Addresses that unlock staked tokens before the distribution are not eligible for the winnings payout.",
+    "Addresses that successfully staked within the period will automatically earn their share of winnings proportionally.",
+    "The amount of TRX and USDT an address receives is calculated by the following equation: The total amount of tokens the address staked/The total amount of tokens that have been staked within that period*Winnings pool.",
+    "Users have to claim their winnings in the Staking page.",
+    "To stake your tokens, please refer to the Staking page."
+  ],
+  "mining_list_caption": "Earning WINR through mining",
+  "mining_list": [
+    "Each time a user wagers, their total amount wagered will be converted into a number of WINR tokens based upon the calculation (see whitepaper).",
+    "There are a total of 9 phases where tokens will be minted with a decreasing number of tokens to be minted in each subsequent phase. Players who participate in early phases can anticipate making more tokens than those users who participate in later phases.",
+    "The coins will continue to mint and be distributed until all tokens have been disbursed.",
+    "After the 9th phase of token minting has occurred, any tokens that are being stored in the reserve from the lottery token purchases will be minted every time the token reserve pool hits 1M tokens. This will keep users highly engaged as there will constantly be more tokens to win for their participation in playing."
+  ],
+  "buying_and_selling_winr": "Buying and selling WINR",
+  "buying_and_selling_winr_1": "Users are able to buy/sell WINR tokens on exchanges (<a href='https://www.bitmart.com/' target='_blank'>https://www.bitmart.com/</a>).",
+  "buying_and_selling_winr_2": "JustBet gives an opportunity to earn WINR token for the players. Check the “Mining” page for more details.",
+  "how_to_use_justbet_like_a_centralired_carino": {
+    "title": "How to use Justbet like a centralired carino?",
+    "paragraphs": [
+      "To place a bet, you will get a popup from TRONLink about the cost of the transaction, the function and the option to accept the transaction or to use the <span>automatically sign button</span>.",
+      "<span>Automatically sign</span> feature of TRONLink gives you an option to allow transactions from JustBet for a certain duration of time. It makes playing easier as you will not have to manually sign a message all the time. For example, you can choose to automatically sign for 1, 5, 10, 30 minutes or indefinitely during your TRONLink session. Each bet you placed will be signed automatically by TRONLink until the end of the duration."
+    ]
+  },
+  "privacy_policy": "Privacy Policy",
+  "what_is_justbet": {
+    "title": "What is JustBet",
+    "info": "<sup>*</sup>100% of platform winnings are distributed to players (80% staking, 20% lottery)",
+    "list": [
+      "A decentralized and fully autonomous gaming platform<sup>*</sup>",
+      "All games and randomizers are built on blockchain",
+      "Designed to reward all users regardless of if they win or lose by rewarding them with winnings of the platform",
+      "Designed to be user-friendly to overcome the blockchain-based barriers of the technology",
+      "Provides a chance for players to use multiple currencies: Tron and USDT",
+      "A circular economy with limited supply but indefinite mining period",
+      "Users are rewarded WINR tokens for each of their wager",
+      "Amount of WINR earned is calculated through a formula which is directly tied to the winnings generated by the platform",
+      "Developers are able to propose new game additions to the platform",
+      "Acting as a DAO, WINR token holders are able to vote or reject the game proposal"
+    ],
+    "list_2": [
+      "You will transition into the next bracket once you have 5 active users in each bracket.",
+      "After completing the normal bracket, you will be in the Bronze bracket and your WINR earnings will have 1.2x multiplier.",
+      "Each inactive (users that didn’t wager in a month) user will be deleted from your referral list once a month.",
+      "Each referral is active <span>for 3 months.</span>"
+    ]
+  },
+  "read_the_whitepaper": "Read the Whitepaper",
+  "how_does_justbet_work": {
+    "title": "How Does JustBet Work?",
+    "list": [
+      "The bankroll of JustBet platform is not accessible by anyone",
+      "The bankroll is managed through a learning smart algorithm",
+      "The smart algorithm automatically adjusts the maximum bet according to the health of the bankroll",
+      "First ever truly decentralized structure"
+    ]
+  },
+  "games_on_the_justbet_platform": {
+    "title": "Games on the JustBet Platform",
+    "list": [
+      "Dice",
+      "Moon",
+      "Wheel/Ring",
+      "Coin Flip",
+      "Slot Machines (coming soon)",
+      "Roulette (coming soon)",
+      "Poker (coming soon)",
+      "Blackjack (coming soon)",
+      "Baccarat (coming soon)",
+      "Keno (coming soon)",
+      "Sic Bo (coming soon)",
+      "Sports Betting (coming soon)"
+    ]
+  },
+  "token_supply": {
+    "title": "Token Supply",
+    "list": [
+      "Total Supply: (unlocked over a 2 year period) <span>10,000,000,000 WINR</span>",
+      "Total Minting Rounds: <span>9</span>",
+      "Total WINR available for mining: 6,000,000,000 WINR (60%)",
+      "Pre-Minted for the seed investors: (unlocked over a 1 year period) 500,000,000 WINR (5%)",
+      "Pre-Minted for the partners: 600,000,000  WINR (7%)",
+      "Pre-Minted for promotions and future partners: 128,000,000 WINR (1.28%)",
+      "Pre-Minted for the development team: (unlocked over a 2 year period) 2,700,000,000 WINR (27%)",
+      "Pre-minted for Initial Exchange Offering: 56,000,000 WINR (0.56%)",
+      "Initial Exchange Offering Cap: $28,000 USD",
+      "Initial Exchange Offering Price: $0.0005 USD"
+    ],
+    "info": "<sup>*</sup> Half of the tokens allocated to the team will simultaneously be minted with the tokens available for players to mint."
+  },
+  "round_distribution_pre": "Below are the mining rounds. Each round has a different amount of WINR pool and multiplier. The round changes when the last WINR mined in the previous round. The amount of WINR you mine in your every play is dynamically decided with parameters of the winning rate from yesterday, and the comparison of your bet amount to the total bet on the platform. This means the more you bet, the more WINR you will mine.",
+  "round_distribution": "Round Distribution",
+  "rounds": "Rounds",
+  "round": "Round",
+  "allocation": "Allocation",
+  "payout_ratio": "Payout Ratio",
+  "post_minting": "Post Minting (Lottery Reserve)",
+  "every_1m_winr_tokens_received_from_lottery_ticket_purchases": "Every 1M WINR Tokens received from Lottery ticket purchases",
+  "random_from_any_of_the_9_payout_ratios_everyones_a_winr": "Random from any of the 9 payout ratios. Everyone’s a WINR!",
+  "roadmap": "Roadmap",
+  "winr_circulating_supply": "WINR CIRCULATING SUPPLY",
+  "your_winr_earned": "YOUR WINR EARNED",
+  "your_total_wagered": "YOUR TOTAL WAGERED",
+  "your_total_earned": "YOUR TOTAL EARNED",
+  "progress": "Progress",
+  "efficiency_of_today": "EFFICIENCY OF TODAY",
+  "efficiency_of_yesterday": "EFFICIENCY OF YESTERDAY",
+  "efficiency_of_last_week": "EFFICIENCY OF LAST WEEK",
+  "efficiency_of_winr_staking_yesterday": "EFFICIENCY OF WINR STAKING YESTERDAY",
+  "efficiency_of_winr_staking_last_week": "EFFICIENCY OF WINR STAKING LAST WEEK",
+  "efficiency_of_winr_staking_all_time": "EFFICIENCY OF WINR STAKING ALL-TIME",
+  "profit_sharing": "Profit Sharing",
+  "staking_statistics": "Staking Stats",
+  "yesterdays_airdrop": "YESTERDAY’S AIRDROP",
+  "airdropped_last_week": "AIRDROPPED (LAST WEEK)",
+  "expected_airdrop_per_1000_winr": "EXPECTED AIRDROP PER 1000 WINR",
+  "unfreeze": "UNFREEZE",
+  "countdown_to_winning_airdrop": "Countdown to Winnings Airdrop",
+  "total_balance": "TOTAL BALANCE",
+  "available_for_stake": "AVAILABLE FOR STAKE",
+  "how_much_would_you_like_to_stake": "HOW MUCH WOULD YOU LIKE TO STAKE",
+  "stake": "Stake",
+  "refund": "Refund",
+  "referral_page": "Referral Page",
+  "referral_page_text": "JustBet has a unique referral program that lets players multiple their WINR earnings. Each referral bracket increases the WINR earning a multiplier of the referee.",
+  "normal": "Normal",
+  "bronze": "Bronze",
+  "silver": "Silver",
+  "gold": "Gold",
+  "platinum": "Platinum",
+  "diamond": "Diamond",
+  "referral_link": "Referral Link",
+  "your_personal_referral_link": "Your personal referral link",
+  "copy_link": "COPY LINK",
+  "copied": "COPIED",
+  "high_rollers": "High Rollers",
+  "leaderboard": "Leaderboard",
+  "last_bets": "Last Bets",
+  "my_bets": "My Bets",
+  "chat": "Chat",
+  "type_something": "Type something",
+  "hours": "Hours",
+  "min": "Min",
+  "max": "Max",
+  "sec": "Sec",
+  "all": "All",
+  "insufficent_balance": "Insufficent Balance",
+  "please_login": "Please Login",
+  "weeks_transfered": "Weeks Transfered",
+  "your_winr_balance": "Your WINR Balance",
+  "lottery_winr_balance": "Lottery WINR Balance",
+  "choose_a_color_below": "Choose a color below",
+  "spin": "Spin",
+  "token_amount": "Token Amount",
+  "efficiency_of_all_time": "EFFICIENCY OF ALL TIME",
+  "your_claimable_trx": "YOUR CLAIMABLE TRX",
+  "claim": "Claim",
+  "unstake": "Unstake",
+  "withdrawal": "Withdraw",
+  "withdraw_text_before_timer": "You can withdraw your {value} passive WINRs after",
+  "withdraw_text_after_timer": "You can withdraw your {value} passive WINRs",
+  "winnings_airdrops": "Winnings Airdrops",
+  "privacy": {
+    "title": "Privacy Policy",
+    "elements": [
+      {
+        "title": "Overview",
+        "id": "overview",
+        "paragraphs": [
+          "As the operator of JUST.BET (the Website), JUSTBET INTERNATIONAL PTE. LTD. (Company, we or us) is committed to protecting and respecting your privacy.",
+          "This policy together with our Terms Of Use (if applicable) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us.",
+          "This Privacy Policy applies to information we collect when you access or use our products and services (such as our websites, devices, mobile applications and online services), or when you otherwise interact with us.",
+          "Please read the following carefully to understand our views and practices regarding your personal information and how we will treat it. By visiting the Website you are accepting and consenting to the practices described in this policy.",
+          "Our Website may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.",
+          "To contact us, please email info@just.bet."
+        ]
+      },
+      {
+        "title": "Information We May Collect From You",
+        "id": "info_we_may_collect",
+        "paragraphs": [
+          "You may be asked to provide your personal information anytime you use our or an affiliated company’s Service. We and our affiliates may share this personal information with each other and use it consistent with the Privacy Policy.",
+          "We process personal data about you as necessary to meet our legal and contractual obligations, operate our business, provide the products and services you use or otherwise fulfill the legitimate interests described in the “Uses Made of Information” sections below.",
+          "We may collect and process the following data about you:"
+        ],
+        "heads": [
+          {
+            "title": "1. Information Provided By User",
+            "id": "info_provided",
+            "paragraphs": [],
+            "subs": [
+              {
+                "title": "1.1. Subscription",
+                "id": "subscription",
+                "paragraphs": [
+                  "In order to access our newsletter or other materials, you may subscribe with our Website. To subscribe with our Website, you need to provide us your email address."
+                ]
+              },
+              {
+                "title": "1.2. Communications and customer support",
+                "id": "customer_support",
+                "paragraphs": [
+                  "If you contact us, we may receive information about you such as your name, email address, phone number, the contents of the message and/ or attachments you may send us, and any other information you may choose to provide."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "2. Information Collected About Users",
+            "id": "info_about_users",
+            "paragraphs": [],
+            "subs": [
+              {
+                "title": "2.1. Cookies and other tracking technologies",
+                "id": "cookies",
+                "paragraphs": [
+                  "The Website may use cookies. Cookies are text files containing small amounts of information which are downloaded to your device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit. The cookies we use are session based. We may use the following cookies:",
+                  "a. Strictly necessary cookies. These cookies are essential in order to enable you to move around the Website and use its features, such as accessing secure areas of the website.",
+                  "b. Analytical/performance cookies. They allow us to recognize and count the number of visitors and to see how visitors move around our Website when they are using it. This helps us to improve the way our Website works, for example, by ensuring that users are finding what they are looking for easily.",
+                  "c. Functionality cookies. These are used to recognize you when you return to our Website. This enables us to personalize our content for you, greet you by name and remember your preferences (for example, your choice of language or region). If you wish you can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies) you may not be able to access all or parts of our Website.",
+                  "We honor Do Not Track signals and Do Not Track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. It's also important to note that we do not allow third-party behavioral tracking."
+                ]
+              },
+              {
+                "title": "2.2. Technical information",
+                "id": "info",
+                "paragraphs": [
+                  "When you use our Services, regardless of the device you access them from, we may collect information about your engagement with and utilization of our Services, such as processor and memory usage, storage capacity, navigation of our Services system-level metrics, device type, user usage data, device network connections (e.g. Wifi) and Internet protocol (IP) address, geolocation information (e.g. GPS), address book, and biometric data.",
+                  "We use this data to operate the Services, maintain and improve the performance and utilization of the Services, develop new features (e.g., Touch ID/Fingerprint to verify your identity), protect the security and safety of our Services and our customers, and provide customer support. We also use this data to develop aggregate analysis and business intelligence that enable us to operate, protect, make informed decisions, and report on the performance of our business. For information about your ability to restrict the collection and use of such information, please use the settings available in the device.",
+                  "With regard to each of your visits to our Website we may automatically collect the technical information, including the IP address used to connect your computer to the Internet, browser type and version time zone setting, browser plug-in types and versions, operating system and platform, information about your visit, including the full Uniform Resource Locators (URL), clickstream to, through and from our Website (including date and time), page response times, download errors, and any information of yours related to contact our customer service team."
+                ]
+              }
+            ]
+          },
+          {
+            "title": "3. Information We Receive From Other Sources",
+            "id": "info_other_sources",
+            "paragraphs": [
+              "This is information we receive about you from public domain, third parties or other websites we operate or the other services we provide. Third parties we work with include: business partners, sub-contractors in technical, payment and delivery services, credit reference agencies, financial services or insurance companies, and third-party account or platforms, including social media platforms.",
+              "Your payment information will be provided from Tronlink Browser Extension. We accept no responsibilities while the transactions take place through us."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Uses Made Of The Information",
+        "id": "made_of_info",
+        "paragraphs": [
+          "We use information held about you in the following ways:"
+        ],
+        "list": [
+          "a. To carry out our obligations arising from law;",
+          "b. To carry out our obligations arising from any contracts entered into between us;",
+          "c. To operate and maintain the Services, for example, to authenticate you when you log in, and to process your transactions;",
+          "d. To prevent, detect and combat fraud and manage risks related thereto through the use of our Website and Services (e.g. by verifying your identity);",
+          "e. To provide you with the information, products and services that you request from us;",
+          "f. To provide you with information about other goods and services we offer that are similar to those that you have already enquired or purchased about;",
+          "g. To communicate with you, directly or through one of our partners, including for customer support, to respond to your requests and for assistance and customer service, to provide you with updates and other information relating to the Service;",
+          "h. To communicate with you about our goods and Services or notify you about changes thereto. We may also use your information to communicate with you about our promotions, studies, surveys, news, updates and events.",
+          "i. To improve our Website and ensure that content from our Website is presented in the most effective manner for you and for your computer.",
+          "k. To administer our Website and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes or to administer a contest, promotion, survey or other site feature.",
+
+          "l. To allow you to participate in interactive features of our service, when you choose to do so; m. As part of our efforts to keep our Website safe and secure;",
+          "n. To measure or understand the effectiveness of advertising we may serve to you and to deliver relevant advertising to you."
+        ],
+        "heads": [
+          {
+            "title": "We Do Not",
+            "list": [
+              "a) Sell or trade personal data;",
+              "b) Make decision based solely on automated processing, including profiling."
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Disclosure of Your Information",
+        "id": "disclosure_of_your_info",
+        "paragraphs": ["We may share your personal information with:"],
+        "list": [
+          "1. Any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries.",
+          "2. Selected third parties including: ",
+          {
+            "not": "true",
+            "text": "We will disclose your personal information to third parties:"
+          },
+          "1. As required by law;",
+          "2. In the event that we sell or buy any business or assets, in which case we will disclose your personal information to the prospective seller or buyer of such business or assets.",
+          "3. If the Company, or substantially all of its assets are acquired by a third party, in which case personal information held by it about its customers will be one of the transferred assets.",
+          "4. If we are under a duty to disclose or share your personal information in order to comply with any legal obligation, or in order to enforce or apply our Terms Of Use and other agreements; or to protect the rights, property, or safety of the Company, our customers, or others.",
+          "5. To meet our legal and contractual obligations to you related to the project.",
+          "6. To avoid crime, money laundering and the risk of fraud.",
+          "7. To ensure that we have relevant information on persons who has registered into platform.",
+          "8. In order to provide relevant information to regulators, government agencies and banks that may request information about platform."
+        ]
+      },
+      {
+        "title": "Children Privacy",
+        "id": "children_privacy",
+        "paragraphs": [
+          "We do not knowingly collect or maintain personal data on our Website from persons under 13 years of age, and no part of our Website is directed to persons under 13 years of age. If you are under 13 years of age, then please do not use or access this Website at any time or in any manner.",
+          "We will take appropriate steps to delete any personal data of persons less than 13 years of age that has been collected on our Website without verified parental consent upon learning of the existence of such personal data."
+        ]
+      },
+      {
+        "title": "Transfer Your Personal Information",
+        "id": "transfer_info",
+        "paragraphs": [
+          "In carrying out its services, we may transfer your personal data across borders. More specifically, we may transfer your personal data in the following cases:"
+        ],
+        "list": [
+          "1. Mailing lists, customer messaging and chat. We may transfer your personal data to a mailing service in order to communicate with your more effectively."
+        ]
+      },
+      {
+        "title": "Where We Store Your Personal Information",
+        "id": "store_info",
+        "paragraphs": [
+          "Just.Bet is a decentralized betting platform with very limited accumulation of data. Mailing information provided by users are stored in safe, local servers. Beyond that; transactions, actions and any further flow detail is stored on blockchain without any risk of intervention."
+        ]
+      },
+      {
+        "title": "Length of Storage of Your Information",
+        "id": "length_info",
+        "paragraphs": [
+          "We store the information we collect about you for no longer than is necessary for the purposes for which we originally collected it, unless a longer retention period is required or permitted by applicable law and it is in our legitimate business interests to do so."
+        ]
+      },
+      {
+        "title": "Changes To Our Privacy Policy",
+        "id": "changes",
+        "paragraphs": [
+          "We may revise our Privacy Policy from time to time to reflect changes to our business, services or relevant laws. Any changes we make to our Privacy Policy in the future will be posted on this page with immediate effect from the date of publication and, where appropriate, notified to you by email. Please check back frequently to see any updates or changes to our Privacy Policy."
+        ]
+      },
+      {
+        "title": "Questions",
+        "id": "questions",
+        "paragraphs": [
+          "Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to info@just.bet."
+        ]
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms Of Use",
+    "paragraphs": [
+      "These Terms Of Use apply to the just.bet website, including, but not limited to any and all mobile applications, social media, and related sites (collectively the \"JustBet Website\", this \"website\", or this \"site\"). As used in this Privacy Policy, \"JustBet\", \"us\", or \"we\" refers to JUSTBET INTERNATIONAL PTE. LTD., the owner and operator of the www.justbet.com site."
+    ],
+    "elements": [
+      {
+        "title": "Introduction",
+        "id": "intro",
+        "list": [
+          "You acknowledge and agree to be bound by the Terms Of Use (as amended from time to time) each and every time you:",
+          {
+            "not": true,
+            "text": "You acknowledge and agree to be bound by the Terms Of Use (as amended from time to time) each and every time you:"
+          },
+          "(a) access or use any section of our Website;",
+          "(b) access or use any of our Betting Platforms; and/or",
+          "(c) place a bet with us.",
+          {
+            "not": true,
+            "text": "Please read the Terms Of Use carefully. The Terms Of Use constitute your Agreement with us. These Terms Of Use may be unilaterally amended by JustBet from time to time. Any changes to the Terms Of Use will be posted on the Website and shall take effect from the date of such posting. Your continued use of the Website after such amendments to the Terms Of Use are posted shall be deemed acceptance by you of any changes that we may make. It is your responsibility to ensure that you make yourself aware of and understand any amendments to the Terms Of Use."
+          },
+          {
+            "not": true,
+            "text": "By accessing or using any section of our Website, using any of our Betting Platforms and/or placing a bet with us, you accept and acknowledge that you have understood and agree to be bound by the Terms Of Use (as amended from time to time), including the:"
+          },
+          "(a) JustBet Betting Platform Terms of Use;",
+          "(b) Betting Rules;",
+          "(c) Responsible Gambling Policy;",
+          "(d) Promotional Terms Of Use;",
+          "(e) JustBet Card Terms Of Use;",
+          "(f) Privacy Policy; and",
+          "(g) Refund Policy"
+        ],
+        "foot": [
+          "Your continued use of the Website or our Betting Platforms will constitute acceptance of the Terms Of Use (as amended from time to time). If you do not accept the Terms Of Use, please do not access or use any section of our Website, use any of our Betting Platform or place a bet with us.",
+          "In the event of any conflict or inconsistency between any of the Terms Of Use, the order of precedence shall be as set out in previous clause You acknowledge that there is a risk of losing money when gambling through our Betting Platforms and you accept full responsibility for any such loss.",
+          "All Bets made with us are considered to be placed and received by JustBet in the Europe Territory and are processed by us on our servers in the Europe Territory, in accordance with our licence. We are licensed and regulated by the Europe Territory Racing Commission."
+        ]
+      },
+      {
+        "title": "License and Access",
+        "id": "license",
+        "paragraphs": [
+          "Company grants you a limited license to access and make personal use of the JustBet Website and the Content for NONCOMMERCIAL PURPOSES ONLY and only to the extent such use does not violate these Terms Of Use including, without limitation, the prohibitions listed in the \"UNLAWFUL OR PROHIBITED USES\" section of these Terms Of Use. You may download, print, and copy Content for personal, noncommercial purposes only, provided you do not modify or alter the Content in any way, delete or change any copyright or trademark notice, or violate these Terms Of Use in any way. Accessing, downloading, printing, posting, storing, or otherwise using the JustBet Website or any of the Content for any commercial purpose, whether on behalf of you, yourself or on behalf of any third party, constitutes a material breach of these Terms Of Use."
+        ]
+      },
+      {
+        "title": "Use of Betting Platform",
+        "id": "use_of",
+        "paragraphs": [
+          "You acknowledge and agree that use of JustBet Betting Platforms and all betting activity undertaken on or through your devices and the Betting Platforms is subject to these Terms Of Use."
+        ],
+        "list": [
+          "1. JustBet reserves the right to impose other conditions of use or vary the Terms Of Use from time to time governing your use of the Betting Platform, for reasons including changes in regulatory requirements, changes in the law, changes in product types and changes in JustBet’s systems.",
+          "2. Your access to and use of the Betting Platforms is permitted on a temporary basis, and JustBet reserves the right to restrict your use of the Betting Platform, withdraw, suspend or amend any aspect or feature of our Betting Platforms without notice. If the need arises, we may suspend access to our Betting Platforms, or part thereof, for maintenance or other purposes. We will not be liable if, for any reason, our Betting Platforms are unavailable at any time or for any period.",
+          "3. While JustBet uses all reasonable care to provide the Betting Platforms and associated facilities and services operated via the Betting Platforms, JustBet does not promise that the Betting Platforms will be error free or fault free or available for use at any particular time. JustBet is not liable to you for any loss or damage suffered by you as a result of your use of the Betting Platforms or inability to use the Betting Platforms, howsoever caused.",
+          "4. JustBet may, in our absolute discretion, change the content (including betting products or elements of the betting product) of our Betting Platforms at any time (provided such changes do not affect games and/or Bets already in progress).",
+          "5. You are only permitted to use our Betting Platforms for your own personal use. You are not permitted to use our Betting Platforms for commercial use, unless you have our express prior written consent. You must not provide access to, or reproduce our Betting Platforms, or any part of them, without our express prior written consent.",
+          "6. You must not use our Betting Platforms for any purpose which is or may be considered to be defamatory, abusive, obscene, unlawful, racist, sexist, discriminatory or otherwise offensive.",
+          "7. You must not misuse our Betting Platforms, for example by knowingly introducing viruses, trojans, worms, logic bombs or other material which is malicious or technologically harmful. You must not attempt to gain unauthorised access to our Betting Platforms.",
+          "8. You are solely responsible for making all necessary arrangements for you to have access to our Betting Platforms, including covering all costs for accessing our Betting Platforms such as",
+          "telecommunication and internet service provider charges. We will not be liable for any losses caused to you by the internet or any telecommunications service provider which you have engaged in order to access our Betting Platforms.",
+          "9. JustBet cannot guarantee that our Betting Platforms will be compatible or operate with any hardware or software that may be used by you."
+        ]
+      },
+      {
+        "title": "Placing a Bet On Just.Bet",
+        "id": "placing_a_bet",
+        "paragraphs": [
+          "By placing a Bet via the Betting Platform in the manner described on the Betting Platform, you acknowledge and agree that you are submitting a binding and irrevocable offer to place the bet with JustBet according to the price, odds and any other specific terms stated on the Betting Platform at the time of placing the Bet.",
+          "1. As a condition of making the Betting Platforms available to you for placing a Bet, JustBet:"
+        ],
+        "list": [
+          "(a) reserves the right at any time to refuse to accept any Bet;",
+          "(b) may require you to transfer more funds before you are able to place any bet if the balance in your wallet will not cover the amount of the bet;",
+          "(c) does not guarantee that it will accept all Bets placed on the Betting Platforms or associated betting systems or Bets placed through any particular channel (e.g. internet or phone);",
+          "(d) reserves the right to change the functionality or method of operating the Betting Platforms, associated betting systems or its method of receiving or accepting Bets at any time. Where practicable, JustBet may but is not obliged to notify you about any changes beforehand, such as posting a notice on the Website; and",
+          "(e) reserves the right at any time to declare void any Bet that in any way contravene one or more of the Terms Of Use."
+        ]
+      },
+      {
+        "title": "Bonus Bets / Complementary Bets",
+        "id": "bonus_bets",
+        "paragraphs": [
+          "Bonus Bets/Complimentary Bets may be may issued by JustBet to selected Clients from time to time as part of JustBet promotional activities (‘Bonus Bets’). Eligibility for and redemption of all",
+          "Bonus Bets shall determined strictly in accordance with the Promotional Terms Of Use located at www.justbet.com."
+        ]
+      },
+      {
+        "title": "Bet Accepted In Error",
+        "id": "bet_error",
+        "paragraphs": [
+          "If a Bet is accepted in error by JustBet (whether human error or system failure) on an event or outcome, JustBet accepts no responsibility of refunding the betting amount to your wallet. Examples of these errors include, but are not limited to:"
+        ],
+        "list": [
+          "(a) where a Bet is accepted at a price or dividend (which includes the odds, handicap provisions and other terms or details of the Bet) that is materially different from those available in the general market at the time the Bet was made or obviously incorrect given the chance of the event occurring at the time the Bet was made.",
+          "(b) where a Bet is accepted in error after the race or event has started;",
+          "(c) where a Bet is accepted in error after the race or event has finished and the result has been determined. In such instances, JustBet will also consider Bets placed or attempted to be placed after the race or event result is determined as fraud and JustBet reserves the right to suspend or close the Client’s access accordingly."
+        ]
+      },
+      {
+        "title": "Win Limits / Maximum Payouts and Payment Of Winnings",
+        "id": "win_limits",
+        "paragraphs": [
+          "JustBet reserves the right to limit the net payout (the payout after the stake has been deducted) on any bet or combination of Bets placed by one Client (or a group of Clients deemed by JustBet to be acting on behalf of or in conjunction with a particular individual Client) at any rate declined in the webpage. This payout limit may be lower for a specific type of bet and offer. Further Terms Of Use in regard to win limits and maximum payouts are set out in bets page.",
+          "Payments on winning Bets that are lawfully and validly placed by you and paid out in accordance with the Rules, will be added to the balance of your wallet once the bet has been settled by the smart contract. The payout funds will remain in your wallet unless you submit a request that part, or all, of the outstanding balance be returned to you via the ‘Withdrawal of Funds’ procedure set out in clauses above.",
+          "You are responsible for reporting your winnings and losses, if such reporting is required by your local laws, tax department or other authorities."
+        ]
+      },
+      {
+        "title": "Dividend / Maraket Manipulation, Dividend / Market Errors & Payout Errors",
+        "id": "manipulation",
+        "paragraphs": [
+          "JustBet reserves the right to cancel any bet made by you where it reasonably suspects that you or one of your associates has manipulated (or attempted to manipulate) the dividends payable from a pari-mutuel pool, or where JustBet reasonably suspects the dividends payable from a pari-mutuel pool have been manipulated by unknown persons.",
+          "JustBet may place a limit on the final dividend payable by JustBet, where JustBet has a reasonable suspicion that the odds of the relevant pool have been manipulated, in which case, JustBet reserves the right to cap the dividend it pays on Tote based best to be no greater than 100% higher than the next highest dividend payable on an Australian tote.",
+          "Where, in respect of any of our betting products or an event within a betting product, JustBet make an error (whether human or otherwise), we will be entitled to declare the transaction void and withhold any payments. If we wrongly pay an amount to you or we pay you more than the amount to which you are properly entitled, you agree to repay to us immediately upon request from us the amount which has been wrongly paid or overpaid to you.",
+          "You agree to promptly notify us of any matter which comes to your attention from which it might reasonably be concluded that your Tron wallet has an incorrect balance for whatever reason or that wrong winnings or dividends have been applied to your wallet. Failure to do so may be deemed fraud and will be investigated accordingly."
+        ]
+      },
+      {
+        "title": "Prohibited Countries",
+        "id": "prohibited_countries",
+        "paragraphs": [
+          "You acknowledge that due to the laws of the following countries, JustBet cannot allow the residents of or persons located in those countries to use the Betting Platform(s) or to otherwise place Bets, or transact, with JustBet:"
+        ],
+        "list": [
+          "• American Samoa; • Belgium; • Brazil; • Canada; • China; • Czech Republic; • Denmark; • Dutch Antilles; • France; • French Guiana; • French Guinea; • French Polynesia; • French Southern Territories; • Germany; • Hong Kong; Effective date 18.06.18 • Hungary; • India; • Indonesia; • Iran; • Ireland; • Italy; • Luxembourg; • Malta; • Myanmar; • Netherlands; • North Korea; • Pakistan; • Poland; • Portugal; • Russia; • Singapore; • South Africa; • South Korea; • Spain; • Taiwan; • Turkey; • United Arab Emirates; • United Kingdom; • United States of America; • US Virgin Islands; • Vietnam; and such other countries that may be added or removed from this list from time to time, to reflect changes in domestic or foreign laws. (collectively referred to as “Prohibited Countries’) In addition:",
+          "(a) JustBet may refuse to allow persons located in certain countries, or regions within a country, in JustBet’s reasonable opinion, transacting with persons in such countries or regions may give rise to an unacceptable political, legal or commercial risk to JustBet; and",
+          "(b) JustBet will observe sanctions imposed by the United Nations Security Council, bilateral sanctions and counter-terrorism requirements imposed by or maintained by the Australian Government. As a result, this may require JustBet to refuse to open or restrict, suspend or close an access, refuse to accept Bets or otherwise transact with certain individuals or entities."
+        ],
+        "foot": [
+          "JustBet reserves the right to reject any Bets placed from such jurisdictions, so that JustBet does not breach any such foreign or domestic laws."
+        ]
+      },
+      {
+        "title": "Minors Prohibited / 18 and Over Only",
+        "id": "minors_prohibited",
+        "paragraphs": [
+          "You acknowledge and agree that to use the Betting Platform(s), the owner of the wallet, who place a bet in the platform, must be at least 18 years of age and must have agreed to be bound by these Terms Of Use.",
+          "You must not allow any person under 18 years of age (‘minor’) to access or use your wallet.",
+          "You must not disclose any of your interactions with platform, and in particular, your security.",
+          "In the event that JustBet becomes aware or reasonably believes that you have allowed a minor to access, JustBet reserves the right to immediately suspend your access until JustBet has fully investigated the matter.",
+          "JustBet is not liable to you in any way as a result of your inability to place any Bets during any period of time during which your access is suspended.",
+          "If JustBet has reasonable belief that a minor has taken action without your notice, you acknowledge and agree that JustBet may cancel any such bet and refund the bet to your wallet."
+        ]
+      },
+      {
+        "title": "INTOXICATION AND/OR UNDER THE INFLUENCE OF DRUGS",
+        "id": "intoxication",
+        "paragraphs": [
+          "You acknowledge and agree that you must not attempt to access the Betting Platform, place any Bets or otherwise transact with your Tron wallet whilst you are intoxicated by alcohol and/or under the influence of drugs.",
+          "You acknowledge and agree that that you are fully liable for your actions and all activity on your wallet if you chose to disobey this requirement and transact on your wallet whilst you are intoxicated and/or under the influence of drugs.",
+          "In the event that despite this prohibition, you chose to are able to place a Bet or otherwise transact with your wallet whilst you are intoxicated and/or under the influence of drugs, then you are responsible for all Bets placed and all Bets placed will stand.",
+          "JustBet reserves the right to refuse to allow you to place a bet or otherwise transact with your wallet on the internet, if it is the reasonable opinion of a JustBet operator that you are intoxicated and/or under the influence of drugs at the time of doing so. You acknowledge that for your protection, JustBet may suspend your access for a 24 hour period following any decision that you are intoxicated and/or under the influence of drugs.",
+          "JustBet is not responsible for any failure by a JustBet representative to identify that you are in a state of intoxication and/or under the influence of drugs, and you will still be liable for any Bets that you are able to place whilst you are intoxicated and/or under the influence of drugs. This includes, but is not limited to, Bets placed over the Internet."
+        ]
+      },
+      {
+        "title": "Self Exclusion",
+        "id": "self_exclusion",
+        "paragraphs": [
+          "You agree that you must not attempt to place any Bets using JustBet whilst you are a self- excluded customer and that you are fully liable for your actions and all activity on your notice whilst you are a self-excluded customer.",
+          "In the event that you are able to use the Betting Platforms or place a Bet whilst you are self- excluded, then you are responsible for all Bets placed and all Bets placed will stand.",
+          "JustBet is not responsible for any failure by our JustBet representatives to identify that you are a self - excluded customer and is not liable for any Bets that you are able to place whilst you are self-excluded. This includes, but is not limited to, Bets placed via the Betting Platform."
+        ]
+      },
+      {
+        "title": "Mental Impairment",
+        "id": "mental_impairment",
+        "paragraphs": [
+          "You agree that you must not attempt to use the Betting Platforms, place any Bets or otherwise attempt to transact on your presence in website whilst you suffer from a mental impairment and that you are fully liable for your actions and all activity on your wallet whilst you are suffering from a mental impairment. In the event that you are able to place a bet, then you are responsible for all Bets placed and all Bets placed will stand.",
+          "JustBet is not responsible for any failure by a JustBet representative to identify that you have a mental impairment and is not liable for any Bets that you are able to place."
+        ]
+      },
+      {
+        "title": "Responsible Gambling",
+        "id": "responsible_gambling",
+        "paragraphs": [
+          "Needs is committed to promoting, monitoring and enforcing responsible gambling practices and to providing the Betting Platforms and associated services to you in accordance with its Responsible Gambling Policy located at www.JustBet.com/responsiblegambling."
+        ]
+      },
+      {
+        "title": "Threatening Behaviour",
+        "id": "behaviour",
+        "paragraphs": [
+          "JustBet hereby reserves the right to suspend or close your access, refuse to allow you to use the Betting Platform(s) or otherwise place a Bet, if it is the reasonable opinion of JustBet that you have threatened harm to either a JustBet representative, JustBet property of any kind, yourself or any other person.",
+          "JustBet reserves the right to refer your threats, including any taped record of any such conversation with a JustBet representative, to any applicable government or law enforcement agency."
+        ]
+      },
+      {
+        "title": "Dispute Resolution Procedure",
+        "id": "dispute_resolution_procedure",
+        "paragraphs": [
+          "If any dispute cannot be settled satisfactorily between JustBet and the customer, the customer may refer the dispute to an authorised representative of the NT Racing Commission at gamblingdisputes@nt.gov.au for their final determination.",
+          "If a customer refers such a matter for resolution to the NT Racing Commission, JustBet will not further adjust any Bets until a decision has been made by an authorised representative of the NT Racing Commission.",
+          "If any term (or part of a term) in the Terms Of Use is or becomes void or unenforceable, that term (or part of a term) will be taken to be removed and cease to form part of the Terms Of Use. However, the remaining Terms Of Use will continue to have full force and effect to the extent that they can operate independently from the void provisions."
+        ]
+      },
+      {
+        "title": "No Warranty",
+        "id": "no_warranty",
+        "paragraphs": [
+          "We will endeavour to provide our Betting Platforms and any content within them (including information about live sporting events such as scores and form guides and other information with all reasonable skill and care, and take reasonable steps to ensure that our third party contractors who provide us with content or services also take reasonable skill and care. However, our Betting Platforms are provided “as is” and we do not make any warranty or representation, whether express or implied, about them. All implied warranties or conditions of satisfactory quality, fitness for purpose, completeness or accuracy are excluded except where we are unable to do so under the European Consumer Law.",
+          "Information published on the Website or the Betting Platforms are provided for your entertainment only. We provide no warranty as to the accuracy of this information and you should not rely on it without independent verification prior to placing your bet.",
+          "While we will try to correct reported faults or incorrect content as soon as we reasonably can, we make no warranty that our Betting Platforms and any content within them will meet your requirements or will be uninterrupted, timely, secure or error-free, or that defects will be corrected, or that our Betting Platforms (including our servers) are free from viruses or bugs or represent that they will be functional, accurate or reliable. We also make no warranty as to the accuracy of any information obtained by you through our Betting Platforms.",
+          "In the event of systems or communications errors relating to the generation of random numbers, bet settlement or other elements of the betting product, we will not be liable to you as a result of any such errors and we reserve the right to void all affected Bets."
+        ]
+      },
+      {
+        "title": "Intellectual Property Rights",
+        "id": "intellectual_property_rights",
+        "paragraphs": [
+          "You acknowledge and agree that all intellectual property rights in our Betting Platforms, their contents (including any software), the content and data published on or in them, and all other items created by or for us such as our rules, Terms Of Use and marketing materials, remains at all times vested in us or our licensors. These intellectual property rights include, without limitation, copyright, trade marks, the underlying software, the design, graphics, layout, the look and feel and structure of our Betting Platforms, database rights, design rights, domain names and rights to goodwill and/or to sue for passing off. You are not permitted to copy, reverse engineer or otherwise use our intellectual property, except with our prior express written consent.",
+          "You acknowledge and agree that our Betting Platforms and the material and content contained within them, is made available for your personal non-commercial use only. Any other use of our Betting Platforms and the material and content contained within them is strictly prohibited.",
+          "No data, file, graphics, images, documents, wording such as our Terms Of Use, results or other content in our Betting Platforms, including content downloaded or otherwise accessed from our Betting Platforms, and material you may receive in connection with our Betting Platforms, may be copied, reproduced or distributed without our prior written consent. You agree not to, and agree not to assist or facilitate any third party to, in any manner copy, reproduce, transmit, publish, display, distribute, commercially exploit, tamper with, modify, adapt, develop, decompile, reverse engineer or create derivative works of such material and content, or our Betting Platforms or any part of them."
+        ]
+      },
+      {
+        "title": "Links From or To Our Website",
+        "id": "links",
+        "paragraphs": [
+          "Where our Websites contains links to other websites and resources provided by third parties, these links are provided for your information only. We have no control over the contents of these sites or resources, and accept no responsibility for them or for any loss or damage that may arise from your use of them or their use of any information they may acquire about you (including personal data).",
+          "A link from our Website does not constitute an endorsement by us of the use of that link, the company or organisations behind that link or the contents of the website reached using that link.",
+          "You agree not to, and agree not to assist or facilitate any third party to, create a link to our Website without our prior express written consent."
+        ]
+      },
+      {
+        "title": "Promotions and Competitions",
+        "id": "promotions",
+        "paragraphs": [
+          "We may, from time to time, offer certain promotions and competitions to you. These competitions and promotions may have separate Terms Of Use that are specific to that promotion or competition. These Betting Platform Terms of Use will apply to any such competitions or promotions. However, in the event of any conflict between the Terms Of Use and the Terms Of Use that are specific to that promotion or competition, the Terms Of Use that are specific to that promotion or competition promotion will prevail but only to the extent of any conflict."
+        ]
+      },
+      {
+        "title": "IT System Failures",
+        "id": "it_failures",
+        "paragraphs": [
+          "We cannot be held responsible for a Bet not being placed or an offer not being matched for any reason or you being disconnected from our Betting Platforms, including but not limited to malfunction of your Device, failure of telecommunications services or internet connections or malfunction of our hardware, Betting Platforms or any other aspect of our information technology systems, regardless of whether the fault is within our control or not. The balance of your wallet will at all times, be as it is recorded on Tron blockchain.",
+          "The balance on the server when you access our Betting Platforms, after you have been disconnected, will reflect the balance after completion of the last Bet prior to the disconnection.",
+          "By placing any further Bets or offers on our Betting Platforms, you accept the results of any previous Bet. As such (at our discretion) the results of the previous Bet are no longer in dispute and no refund or other adjustments will be granted."
+        ]
+      },
+      {
+        "title": "Limitations of Liability",
+        "id": "liability",
+        "paragraphs": [
+          "Subject to previous clause, you agree to fully indemnify, defend and hold the Indemnified Parties harmless immediately on demand, from and against all Claims, arising out of: a. any breach of the Terms of Use by you; and b. any other Claims arising out of your access, use or failed use of our Betting Platforms other than as expressly permitted by these Betting Platform Terms of Use.",
+          "Subject to previous clauses, our liability to you for any loss or damage (however caused, including by our negligence) incurred or suffered by you in connection with the Terms of Use or your use of our Betting Platforms is limited to the amount of the bet placed with JustBet.",
+          "Subject to previous clauses, we are not liable to you for any indirect or consequential loss (even if such losses are foreseeable or if we have been notified by you of the possibility of such loss or damage occurring), including but not limited to loss of profits from potential winnings/payouts on Bets not taken by JustBet, Bets voided by JustBet, damage to or loss or destruction of, your Device or software or any other data or information of any nature whatsoever on your Device, as a result of you accessing, using, downloading or otherwise interacting with our Betting Platforms or us in any manner whatsoever."
+        ]
+      },
+      {
+        "title": "Limitations of Liability",
+        "id": "liability",
+        "paragraphs": [
+          "Subject to previous clause, you agree to fully indemnify, defend and hold the Indemnified Parties harmless immediately on demand, from and against all Claims, arising out of: a. any breach of the Terms of Use by you; and b. any other Claims arising out of your access, use or failed use of our Betting Platforms other than as expressly permitted by these Betting Platform Terms of Use.",
+          "Subject to previous clauses, our liability to you for any loss or damage (however caused, including by our negligence) incurred or suffered by you in connection with the Terms of Use or your use of our Betting Platforms is limited to the amount of the bet placed with JustBet.",
+          "Subject to previous clauses, we are not liable to you for any indirect or consequential loss (even if such losses are foreseeable or if we have been notified by you of the possibility of such loss or damage occurring), including but not limited to loss of profits from potential winnings/payouts on Bets not taken by JustBet, Bets voided by JustBet, damage to or loss or destruction of, your Device or software or any other data or information of any nature whatsoever on your Device, as a result of you accessing, using, downloading or otherwise interacting with our Betting Platforms or us in any manner whatsoever."
+        ]
+      },
+      {
+        "title": "Fraud",
+        "id": "fraud",
+        "paragraphs": [
+          "JustBet reserve the right to seek criminal and contractual remedies and sanctions against you if you are involved in fraud, dishonest or criminal acts and will make such reports as necessary to the authorities.",
+          "JustBet reserve the right (in its sole and absolute discretion) to void any Bets placed by you and/ or withhold any payouts or refuse to process any request to withdraw funds from your wallet, where you are suspected of engaging in any actual or attempted fraudulent, dishonest or criminal activities.",
+          "You shall indemnify and shall be liable to pay us, on demand, all costs, charges or losses sustained or incurred by us (including any direct, indirect or consequential losses, loss of profit and loss of reputation) arising directly or indirectly from your fraud, dishonesty or criminal actions."
+        ]
+      },
+      {
+        "title": "Compliance With Laws",
+        "id": "compliance_with_laws",
+        "paragraphs": [
+          "Our Betting Platforms may be used only for lawful purposes and in a lawful manner. You agree to comply at all times with all applicable laws, statutes and regulations when accessing or using our Betting Platforms or placing a Bet with us."
+        ]
+      },
+      {
+        "title": "Severability",
+        "id": "severability",
+        "paragraphs": [
+          "If any of the Terms Of Use (or part thereof) are determined by any competent authority to be invalid, unlawful or unenforceable to any extent, such term, condition or provision (or part thereof) will to that extent be severed from the remaining Terms Of Use which will continue to be valid to the fullest extent permitted by law."
+        ]
+      },
+      {
+        "title": "Waiver",
+        "id": "waiver",
+        "paragraphs": [
+          "No failure or delay by us in exercising any right under these Terms Of Use shall operate as a waiver of this right. Similarly, any single or partial exercise of any right shall not preclude any further exercise of any of these rights or the exercise of any other right."
+        ]
+      },
+      {
+        "title": "No Partnership or Agency",
+        "id": "no_agency",
+        "paragraphs": [
+          "Nothing in the Terms Of Use shall be construed as creating any agency, partnership or any other form of joint enterprise between you and us."
+        ]
+      },
+      {
+        "title": "Assignment",
+        "id": "assignment",
+        "paragraphs": [
+          "You are not permitted to assign, transfer, charge or otherwise deal in your rights and/or obligations under the Terms Of Use without our prior express written consent. We are entitled to assign, transfer, charge or otherwise deal in our rights under the Terms Of Use as we see fit."
+        ]
+      },
+      {
+        "title": "Third Parties",
+        "id": "third_parties",
+        "paragraphs": [
+          "Unless otherwise expressly stated, nothing in the Terms Of Use creates or confers any rights on any persons not party to the Terms Of Use."
+        ]
+      },
+      {
+        "title": "Consent To Transact Electronically",
+        "id": "consent_to_transact",
+        "paragraphs": [
+          "You provide your express consent for us to transact and communicate with you by electronic means. We recommend Tronlink Browser Extension for you to better manage your payment flow."
+        ]
+      },
+      {
+        "title": "Law And Jurisdiction",
+        "id": "law_and_jurisdiction",
+        "paragraphs": [
+          "The validity, construction and performance of the Terms Of Use and our Agreement with you are governed by the laws of the European Territory and shall be subject to the non-exclusive jurisdiction of the European Territory, to which you submit, except that either you or we may seek an interim injunction in any court of competent jurisdiction."
+        ]
+      },
+      {
+        "title": "Entire Agreement",
+        "id": "entire_agreement",
+        "paragraphs": [
+          "The Terms Of Use including any document expressly referred to in them, our Agreement with you, and any guidelines or rules posted on our Website or within our Betting Platforms represent our entire agreement with you in relation to the subject matter of the Terms Of Use and supersede any prior agreement, understanding or arrangement between us, whether oral or in writing.",
+          "You agree that you shall have no remedy in respect of any misrepresentation which has not become a term of the Terms Of Use."
+        ]
+      },
+      {
+        "title": "Limitation Of Actions",
+        "id": "limitations_of_actions",
+        "paragraphs": [
+          "You hereby agree that any legal proceedings to enforce any Claim that you may against us must be initiated by you within a period of 6 months of the cause of action arising (the \"Prescription Period\"), failing which you hereby waive and abandon any right that you may have to enforce such claim after the Prescription Period and confirm that on the expiry of the Prescription Period the relevant Claim shall be void, waived and abandoned in law."
+        ]
+      }
+    ]
+  },
+  "login_popup": {
+    "header": "Tronlink authorization",
+    "login": "Please, login into your tronlink wallet.",
+    "install": "Please, install tronlink extenssion to your web browser."
+  },
+  "login_first": "Login First",
+  "see_more_buttons": "See More",
+  "login_to_see": "Login to see",
+  "something_wrong": "Something Wrong.",
+  "your_proportion": "Your Proportion",
+  "current_daily_pool": "Current Daily Pool",
+  "install_tronlink": "Install Tronlink"
+}

@@ -1,0 +1,90 @@
+repos:
+  - repo: https://github.com/prettier/prettier.git
+    rev: 1.19.1
+    hooks:
+      - id: prettier
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+        args: [--single-quote] #list of args like '--single-quote', '--jsx-bracket-same-line', '--print-width 120', '--no-bracket-spacing'
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v3.1.0 # Use the ref you want to point at
+    hooks:
+      - id: trailing-whitespace
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: check-added-large-files
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+        args: [--maxkb=3000]
+      - id: check-case-conflict
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: check-executables-have-shebangs
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: check-json
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: check-merge-conflict
+      - id: check-vcs-permalinks
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: check-yaml
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: detect-private-key
+      - id: end-of-file-fixer
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: mixed-line-ending
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+  - repo: https://github.com/jumanjihouse/pre-commit-hooks
+    rev: 2.1.1
+    hooks:
+      #      - id: git-check # Configure in .gitattributes
+      #        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: markdownlint # Configure in .mdlrc
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+        args: [-r, '~MD013,~MD004']
+      - id: require-ascii
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: shellcheck
+  - repo: https://github.com/Lucas-C/pre-commit-hooks-nodejs
+    rev: v1.1.0
+    hooks:
+      - id: dockerfile_lint
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: markdown-toc
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+      - id: htmlhint
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+        args: [--config, .htmlhintrc]
+      - id: htmllint
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+  - repo: https://github.com/jstewmon/check-swagger
+    rev: v0.1.4
+    hooks:
+      - id: check-swagger
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+  - repo: https://github.com/lovesegfault/beautysh.git
+    rev: 6.0.1
+    hooks:
+      - id: beautysh
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+  - repo: local
+    hooks:
+      - id: Jenkinsfile-linter
+        name: Check Jenkinsfile following the scripted-pipeline syntax using Jenkins API
+        files: Jenkinsfile
+        language: system
+        entry: sh -c '! curl --silent https://jenkins.blaize.tech/pipeline-model-converter/validate --user olexiy.b@blaize.tech:119e663fc7cf7d6a1cfcccd737dc4cae6e -F "jenkinsfile=<Jenkinsfile" | grep -F -A 10 "Errors"'
+  - repo: https://github.com/pre-commit/mirrors-eslint
+    rev: v7.2.0 # Use the sha / tag you want to point at
+    hooks:
+      - id: eslint
+        exclude: '^.*(packages/web-app/.*|contracts/.*)$'
+        args:
+          [
+            --quiet,
+            --format,
+            compact,
+            --ignore-pattern,
+            '**/dist/',
+            --ext,
+            js,
+            --ext,
+            json,
+            --fix,
+          ]
+#exclude '^.*(packages/web-app/.*|contracts/.*)$' pattern to exclude specific directories

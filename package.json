@@ -1,0 +1,38 @@
+{
+  "name": "justbet-gambling",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "docker-dev": "cd packages/ && docker-compose down && docker-compose up -d --build",
+    "docker-dev-clean-db": "cd packages/ && docker-compose down && docker volume rm justbet-dev-db",
+    "install": "npip install",
+    "lint": "nopenv pre-commit run -a",
+    "clean-pre-commit": "nopenv pre-commit clean",
+    "nopy": "nopy",
+    "npip": "npip"
+  },
+  "lint-staged": {
+    "*": "nopenv pre-commit run --files"
+  },
+  "devDependencies": {
+    "babel-eslint": "10.1.0",
+    "concurrently": "^5.1.0",
+    "eslint": "^7.1.0",
+    "eslint-config-airbnb": "^18.0.1",
+    "eslint-plugin-import": "^2.18.2",
+    "eslint-plugin-jest": "^22.20.0",
+    "eslint-plugin-json": "^1.4.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "husky": "^4.2.5",
+    "lint-staged": "^10.2.9",
+    "nodemon": "^1.19.2",
+    "nopy": "^0.2.7",
+    "prettier": "^2.0.5"
+  },
+  "python": {
+    "execPath": "python3",
+    "dependencies": {
+      "pre-commit": ">=2.5"
+    }
+  }
+}

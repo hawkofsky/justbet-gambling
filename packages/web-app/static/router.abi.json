@@ -1,0 +1,305 @@
+
+    [{
+            "constant": true,
+            "inputs": [{
+                    "name": "gamerange",
+                    "type": "uint256"
+                },
+                {
+                    "name": "seed",
+                    "type": "uint256"
+                }
+            ],
+            "name": "getRandom",
+            "outputs": [{
+                "name": "",
+                "type": "uint256"
+            }],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "constant": true,
+            "inputs": [{
+                "name": "",
+                "type": "address"
+            }],
+            "name": "games",
+            "outputs": [{
+                    "name": "totalPlayed",
+                    "type": "uint256"
+                },
+                {
+                    "name": "houseEdge",
+                    "type": "uint256"
+                },
+                {
+                    "name": "houseDivisor",
+                    "type": "uint256"
+                },
+                {
+                    "name": "totalWagered",
+                    "type": "uint256"
+                },
+                {
+                    "name": "createdAt",
+                    "type": "uint256"
+                },
+                {
+                    "name": "lastActionAt",
+                    "type": "uint256"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "exists",
+                    "type": "bool"
+                }
+            ],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "constant": true,
+            "inputs": [],
+            "name": "getRandom",
+            "outputs": [{
+                "name": "",
+                "type": "uint256"
+            }],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "constant": true,
+            "inputs": [{
+                "name": "gamerange",
+                "type": "uint256"
+            }],
+            "name": "getRandom",
+            "outputs": [{
+                "name": "",
+                "type": "uint256"
+            }],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "constant": true,
+            "inputs": [{
+                "name": "",
+                "type": "uint256"
+            }],
+            "name": "tempGames",
+            "outputs": [{
+                "name": "",
+                "type": "address"
+            }],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "anonymous": false,
+            "inputs": [{
+                    "indexed": true,
+                    "name": "gameAddr",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "name": "player",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "name": "gameId",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": false,
+                    "name": "wager",
+                    "type": "uint256"
+                }
+            ],
+            "name": "BetRouter",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [{
+                    "indexed": true,
+                    "name": "gameAddr",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "name": "gameId",
+                    "type": "uint256"
+                },
+                {
+                    "indexed": true,
+                    "name": "result",
+                    "type": "uint256"
+                }
+            ],
+            "name": "ResultRouter",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [{
+                    "indexed": true,
+                    "name": "addr",
+                    "type": "address"
+                },
+                {
+                    "indexed": true,
+                    "name": "addrType",
+                    "type": "string"
+                }
+            ],
+            "name": "Set",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [{
+                "indexed": false,
+                "name": "hi",
+                "type": "uint256"
+            }],
+            "name": "test",
+            "type": "event"
+        },
+        {
+            "anonymous": false,
+            "inputs": [{
+                "indexed": false,
+                "name": "heyo",
+                "type": "bytes"
+            }],
+            "name": "test2",
+            "type": "event"
+        },
+        {
+            "constant": true,
+            "inputs": [],
+            "name": "getWINRContract",
+            "outputs": [{
+                "name": "",
+                "type": "address"
+            }],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "constant": true,
+            "inputs": [],
+            "name": "getVoterContract",
+            "outputs": [{
+                "name": "",
+                "type": "address"
+            }],
+            "payable": false,
+            "stateMutability": "view",
+            "type": "function"
+        },
+        {
+            "constant": false,
+            "inputs": [{
+                "name": "addr",
+                "type": "address"
+            }],
+            "name": "setVoterAddress",
+            "outputs": [],
+            "payable": false,
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "constant": false,
+            "inputs": [{
+                "name": "addr",
+                "type": "address"
+            }],
+            "name": "setWINRAddress",
+            "outputs": [],
+            "payable": false,
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "constant": false,
+            "inputs": [{
+                    "name": "game",
+                    "type": "address"
+                },
+                {
+                    "name": "seed",
+                    "type": "uint256"
+                },
+                {
+                    "name": "var1",
+                    "type": "uint256"
+                },
+                {
+                    "name": "var2",
+                    "type": "uint256"
+                },
+                {
+                    "name": "var3",
+                    "type": "uint256"
+                }
+            ],
+            "name": "bet",
+            "outputs": [{
+                "name": "result",
+                "type": "uint256"
+            }],
+            "payable": true,
+            "stateMutability": "payable",
+            "type": "function"
+        },
+        {
+            "constant": false,
+            "inputs": [{
+                    "name": "game",
+                    "type": "address"
+                },
+                {
+                    "name": "name",
+                    "type": "string"
+                },
+                {
+                    "name": "houseEdge",
+                    "type": "uint256"
+                },
+                {
+                    "name": "houseDivisor",
+                    "type": "uint256"
+                }
+            ],
+            "name": "addGame",
+            "outputs": [],
+            "payable": false,
+            "stateMutability": "nonpayable",
+            "type": "function"
+        },
+        {
+            "constant": false,
+            "inputs": [],
+            "name": "fund",
+            "outputs": [],
+            "payable": true,
+            "stateMutability": "payable",
+            "type": "function"
+        }
+    ]

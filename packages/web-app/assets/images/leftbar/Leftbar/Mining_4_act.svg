@@ -1,0 +1,20 @@
+<svg width="112" height="97" viewBox="0 0 112 97" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Leftbar/Mining_4_act">
+<g id="Oval" filter="url(#filter0_f)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M56 61C67.0457 61 76 57.4183 76 53C76 48.5817 67.0457 45 56 45C44.9543 45 36 48.5817 36 53C36 57.4183 44.9543 61 56 61Z" fill="#D9113A"/>
+</g>
+<g id="Group">
+<rect id="Rectangle Copy" x="65.8995" y="29.2721" width="4" height="2" transform="rotate(45 65.8995 29.2721)" fill="#D9113A" stroke="#D9113A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<rect id="Rectangle Copy 2" x="56" y="39.1716" width="4" height="18" transform="rotate(45 56 39.1716)" fill="#D9113A" stroke="#D9113A" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Combined Shape" fill-rule="evenodd" clip-rule="evenodd" d="M60.4943 30.4346L50.4272 26.6542C49.4201 26.276 48.6079 27.5368 49.3685 28.2975L54.5858 33.5147L55.9973 34.9317L60.4943 30.4346ZM63.0547 42.0163L69.7266 48.714C70.4863 49.4767 71.7494 48.6651 71.3714 47.6571L67.5648 37.5062L63.0547 42.0163Z" fill="#D9113A"/>
+<rect id="Rectangle" x="61.6569" y="32.1005" width="6" height="6" rx="1" transform="rotate(45 61.6569 32.1005)" fill="#D9113A"/>
+</g>
+</g>
+<defs>
+<filter id="filter0_f" x="0.662334" y="9.66233" width="110.675" height="86.6753" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="17.6688" result="effect1_foregroundBlur"/>
+</filter>
+</defs>
+</svg>

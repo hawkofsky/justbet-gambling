@@ -1,0 +1,14 @@
+{
+  "port": 3030,
+  "postgres": {
+    "client": "pg",
+    "connection": {
+      "user": "justbet",
+      "database": "justbet",
+      "host": "db"
+    },
+    "migrations": {
+      "directory": "./database/migrations"
+    }
+  }
+}
